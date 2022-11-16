@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+:root {
+  --black: #000000;
+  --background: #f5f7fa;
+  --grey: #656565;
+  --blue1: #d6dfe5;
+  --blue2: #f0f4f5;
+  --blue3: #b8daf4;
+  --blue4: #4c7fbf;
+}

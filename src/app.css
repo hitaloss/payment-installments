@@ -1,0 +1,15 @@
+#root,
+html {
+  background-color: var(--background);
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.result-board {
+  display: flex;
+  background-color: var(--background);
+  border: 2.5px solid #d8e1e7;
+  border-radius: 0.2rem;
+}

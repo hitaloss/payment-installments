@@ -1,0 +1,36 @@
+section {
+  display: flex;
+  flex-direction: column;
+  padding: 3rem;
+  font-family: "Fira Sans", sans-serif;
+  color: var(--blue4);
+  font-style: italic;
+  justify-content: space-around;
+}
+
+.results-holder {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  width: 15rem;
+}
+
+h3 {
+  font-style: italic;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--blue4);
+  border-radius: 10%;
+}
+
+.result-text {
+  color: var(--blue4);
+}
+
+.result-text-details {
+  font-weight: 600;
+}
